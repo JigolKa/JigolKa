@@ -9,9 +9,6 @@
   <a href="https://twitter.com/JigolKa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://twitter.com/JigolKa">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mailgun&logoColor=white" alt="My email"/>
-  </a>
 </div>
 
 <h1>
